@@ -2,7 +2,7 @@
 
 exercise #1
 
-https://glitch.com/edit/#!/jazzy-triangle
+https://glitch.com/edit/#!/wholesale-otter
 
 exercise #2
 
